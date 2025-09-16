@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(127, 117, 117);
+justify-content: center;
+align-items: center;
+position: relative;
+
+}
+.tempo{
+    margin-top: 100px;
+    margin-left: 600px;
+    padding: 20px;
+    background-color: rgb(26, 71, 56);
+    height: 400px;
+    width: 300px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    
+
+}
+#mesageInput{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(25, 66, 53);
+    
+}
+.cla{
+    margin-top: 100px;
+}
+
+.op{
+    font-size: 20px;
+    color: rgb(165, 143, 114);
+
+}
+.ok{
+   height: 20px;
+    font-size: 20px;
+    width: 20px;
+    
+    
+
+}
+#ol{
+    position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -100px;   
+  color: rgb(21, 6, 6);
+  font-size: 24px;
+}
