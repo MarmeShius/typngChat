@@ -28,7 +28,6 @@ button.addEventListener('click', () => {
     lip.textContent = "Type something"; 
   } else {
     lip.textContent = ""; 
-    star.textContent="";
     alert("Message Sent...");
   }
 
